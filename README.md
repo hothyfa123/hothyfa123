@@ -1,7 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Hothyfa</h1>
-<h3 align="center">A passionate full stack developer from Yemen</h3>
+<h1 align="center"><b>Hi , I'm Hothyfa Al-fkeeh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Information+Technology+Graduate,;Nothing+is+everything,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 - 🔰 Co-Lead and Web Pod Lead at Appc Community
 - 👀 I’m interested in Coding in Python and currently working on Development of Applications with JavaScript and Dart
@@ -55,7 +58,7 @@
 <hr>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajeshds20&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://hothyfa123.github.io/hothyfa_portifile)](https://bit.ly/4ezQo9d)
 
 
 
