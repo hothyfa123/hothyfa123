@@ -24,8 +24,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeshds20&theme=default&hide_border=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hothyfa123&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
